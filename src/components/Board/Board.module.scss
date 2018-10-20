@@ -1,0 +1,16 @@
+.board {
+  background: linear-gradient(164deg, #dbf7fe, #ffffff00),
+    url("../../assets/pattern-lightblue.svg");
+  padding: 25px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  box-shadow: 1px 1px 1px 0px #d8d6d6;
+  margin: 10px;
+  width: 100px;
+  word-break: break-word;
+
+  &__title {
+    color: #53d8fc;
+  }
+}

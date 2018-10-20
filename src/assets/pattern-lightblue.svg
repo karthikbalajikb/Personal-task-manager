@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="250px" viewBox="0 0 1440 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>pattern-lightblue</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0.00199298469%" x2="50%" y2="99.9880429%" id="linearGradient-1">
+            <stop stop-color="#08C7FB" offset="0%"></stop>
+            <stop stop-color="#08C7FB" stop-opacity="0" offset="99.998007%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="1440" height="250"></rect>
+        <linearGradient x1="35.7152252%" y1="50%" x2="100%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#08C7FB" offset="0%"></stop>
+            <stop stop-color="#08C7FB" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="pattern-lightblue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cover-copy-2" transform="translate(720.000000, 125.000000) rotate(-180.000000) translate(-720.000000, -125.000000) ">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <use id="Mask" fill-opacity="0.1" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            <g id="Group-7" mask="url(#mask-3)" fill-opacity="0.15">
+                <g transform="translate(-154.000000, -503.251719)" id="Group">
+                    <g transform="translate(0.000000, -0.000000)">
+                        <rect id="Rectangle-Copy" fill="url(#linearGradient-4)" transform="translate(374.000000, 449.896981) scale(1, -1) rotate(-45.000000) translate(-374.000000, -449.896981) " x="124" y="397.360704" width="500" height="105.072555"></rect>
+                        <rect id="Rectangle-Copy-3" fill="url(#linearGradient-4)" transform="translate(213.750000, 469.223382) scale(1, -1) rotate(-45.000000) translate(-213.750000, -469.223382) " x="-36.7685963" y="418.269138" width="501.037193" height="101.908488"></rect>
+                        <rect id="Rectangle-Copy-2" fill="url(#linearGradient-4)" transform="translate(824.328742, 410.260724) scale(1, -1) rotate(-45.000000) translate(-824.328742, -410.260724) " x="328.686288" y="329.978513" width="991.284908" height="160.564422"></rect>
+                        <rect id="Rectangle-Copy-4" fill="url(#linearGradient-4)" transform="translate(480.439493, 425.358584) scale(1, -1) rotate(-45.000000) translate(-480.439493, -425.358584) " x="167.578274" y="401.658008" width="625.722438" height="47.4011528"></rect>
+                        <rect id="Rectangle-Copy" fill="url(#linearGradient-4)" transform="translate(1276.410949, 466.417033) scale(-1, -1) rotate(-45.000000) translate(-1276.410949, -466.417033) " x="1026.41095" y="432.440221" width="500" height="67.9536226"></rect>
+                        <rect id="Rectangle-Copy-3" fill="url(#linearGradient-4)" transform="translate(1448.250000, 518.431148) scale(-1, -1) rotate(-45.000000) translate(-1448.250000, -518.431148) " x="1109.34306" y="467.476904" width="677.813888" height="101.908488"></rect>
+                        <rect id="Rectangle-Copy-6" fill="url(#linearGradient-4)" transform="translate(1514.750000, 586.091078) scale(-1, -1) rotate(-45.000000) translate(-1514.750000, -586.091078) " x="1345.65008" y="572.4848" width="338.199837" height="27.2125566"></rect>
+                        <rect id="Rectangle-Copy-5" fill="url(#linearGradient-4)" transform="translate(389.821699, 444.620996) scale(-1, -1) rotate(-45.000000) translate(-389.821699, -444.620996) " x="124.656656" y="351.130921" width="530.330086" height="186.980148"></rect>
+                        <rect id="Rectangle-Copy-5" fill="url(#linearGradient-4)" transform="translate(1394.000000, 408.420973) scale(1, -1) rotate(-45.000000) translate(-1394.000000, -408.420973) " x="998.979465" y="314.930899" width="790.04107" height="186.980148"></rect>
+                        <rect id="Rectangle-Copy-4" fill="url(#linearGradient-4)" transform="translate(968.432819, 453.389931) scale(-1, -1) rotate(-45.000000) translate(-968.432819, -453.389931) " x="618.069521" y="338.510421" width="700.726596" height="229.759018"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

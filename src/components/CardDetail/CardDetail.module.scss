@@ -1,0 +1,113 @@
+.carddetail {
+  height: 79%;
+  margin: auto;
+  min-width: 70%;
+  background-color: #ebeef0;
+  border-radius: 3px;
+  overflow-y: auto;
+  padding: 21px;
+  color: #17394d;
+  font-weight: bold;
+}
+
+.carddescription {
+  &__textarea {
+    border: none;
+    resize: none;
+    width: 94%;
+    color: #17394d;
+    font-family: sans-serif;
+    overflow: hidden;
+    border-radius: 3px;
+    padding: 3%;
+
+    &:focus {
+      background-color: white !important;
+      border: 1px solid #5ba4cf;
+      box-shadow: 0 0 0 1px #5ba4cf;
+    }
+  }
+
+  &__savebtn {
+    background-color: #5aac44;
+    box-shadow: 0 1px 0 0 #3f6f21;
+    border: none;
+    color: #fff;
+    margin: 3px;
+    padding: 9px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 12px;
+
+    &:hover {
+      background-color: #519839;
+    }
+  }
+}
+
+.cardcomment {
+  &__textarea {
+    border: none;
+    resize: none;
+    width: 94%;
+    color: #17394d;
+    font-family: sans-serif;
+    overflow: hidden;
+    border-radius: 3px;
+    padding: 3%;
+    background-color: white;
+
+    &:focus {
+      box-shadow: 2px 2px 9px 0px #b9b7b7;
+      outline: 0;
+    }
+  }
+
+  &__savebtn {
+    background-color: #5aac44;
+    box-shadow: 0 1px 0 0 #3f6f21;
+    border: none;
+    color: #fff;
+    margin: 3px;
+    padding: 9px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 12px;
+
+    &:hover {
+      background-color: #519839;
+    }
+  }
+}
+
+.cardtitle {
+  line-height: 0;
+  display: flex;
+  justify-content: space-between;
+
+  &__subtext {
+    font-size: 13px;
+    font-weight: 100;
+    line-height: 0;
+    color: #a09d9f;
+
+    &__listtitle {
+      text-decoration: underline;
+    }
+  }
+
+  &__closebtn {
+    width: 30px;
+    height: 30px;
+    background-color: #ebeef0;
+    color: #757677;
+    border-radius: 50%;
+    border: none;
+    font-weight: bold;
+
+    &:hover {
+      background-color: #d8d5d5 !important;
+      cursor: pointer;
+    }
+  }
+}

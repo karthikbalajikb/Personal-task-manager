@@ -1,0 +1,45 @@
+a {
+  text-decoration: none;
+}
+
+.page__header {
+  display: flex;
+  position: relative;
+  background-color: #08c7fb;
+  color: #f8fcff;
+  opacity: 0.7;
+  text-align: center;
+
+  &__title {
+    padding: 7px;
+    margin: 0px;
+  }
+
+  &__boardbtn {
+    position: absolute;
+    right: 26px;
+    background-color: #53d8fc;
+    padding: 5px;
+    top: 3px;
+    color: white;
+    cursor: pointer;
+
+    &:hover {
+      background-color: #4dcbec;
+    }
+  }
+
+  &__createbtn {
+    position: absolute;
+    right: 3px;
+    background-color: #53d8fc;
+    padding: 5px;
+    top: 3px;
+    color: white;
+    cursor: pointer;
+
+    &:hover {
+      background-color: #4dcbec;
+    }
+  }
+}

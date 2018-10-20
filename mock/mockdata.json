@@ -1,0 +1,64 @@
+{
+  "lists": [
+    {
+      "id": "L0",
+      "title": "Things To Do",
+      "cards": [
+        {
+          "id": "L0C0",
+          "title": "configure SASS",
+          "description": "use node-sass with webpack"
+        },
+        {
+          "id": "L0C1",
+          "title": "configure SASS",
+          "description": "use node-sass with webpack"
+        },
+        {
+          "id": "L0C2",
+          "title": "configure SASS",
+          "description": "use node-sass with webpack"
+        }
+      ]
+    },
+    {
+      "id": "L1",
+      "title": "In Progress",
+      "cards": [
+        {
+          "id": "L1C0",
+          "title": "configure SASS",
+          "description": "use node-sass with webpack"
+        }
+      ]
+    },
+    {
+      "id": "L2",
+      "title": "Done",
+      "cards": []
+    },
+    {
+      "id": "L3",
+      "title": "Done",
+      "cards": []
+    },
+    {
+      "id": "L4",
+      "title": "Done",
+      "cards": []
+    }
+  ],
+
+  "boards": [
+    {
+      "id": "B0",
+      "title": "create redux app",
+      "listId": ["L0","L1"]
+    },
+    {
+      "id": "B1",
+      "title": "create VR app",
+      "listId": ["L2","L3", "L4"]
+    }
+  ]
+}

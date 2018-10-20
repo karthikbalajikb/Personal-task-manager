@@ -1,0 +1,22 @@
+a {
+  text-decoration: none;
+}
+
+.boards {
+  background: #f0f8ff70;
+  height: 93vh;
+
+  &__header {
+    text-align: center;
+    margin: auto;
+    padding-top: 15px;
+    color: #607d8b;
+  }
+
+  &__item {
+    display: flex;
+    flex-flow: wrap;
+    padding: 14px;
+    justify-content: center;
+  }
+}
